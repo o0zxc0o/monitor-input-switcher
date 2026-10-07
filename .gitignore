@@ -1,0 +1,9 @@
+config.json
+*.log
+*.exe
+ui*.png
+*.png.log
+assets/测试*.png
+.vs/
+bin/
+obj/
