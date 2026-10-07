@@ -1,8 +1,8 @@
-# 主题素材 / Theme assets
+﻿# 主题素材 / Theme assets
 
 Contributor: o0zxc0o. The supplied theme images were generated with AI assistance and depict EVA-02 / Asuka / NERV.
 
-For any copyrightable contributions that the contributor has authority to license, the following files are offered under CC BY-NC-SA 4.0: assets/eva-neon-reference.png, assets/eva-original.png, and monitor-switch.ico. See LICENSE-ASSETS.txt. Attribution, noncommercial use and share-alike terms apply to those licensed contributions.
+For any copyrightable contributions that the contributor has authority to license, the following files are offered under CC BY-NC-SA 4.0: assets/eva-neon-reference.png, assets/eva-original.png, monitor-switch.ico, and docs/interface-preview.png (an application-rendered screenshot). See LICENSE-ASSETS.txt. Attribution, noncommercial use and share-alike terms apply to those licensed contributions.
 
 This grant does not cover third-party EVA characters, logos, trademarks or other rights. AI generation does not establish permission from the original rights holders. This is unofficial fan work with no claimed endorsement or affiliation. The license does not assure that every intended use or redistribution is authorized by all relevant rights holders.
 
